@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/jc/Downloads/ricoh-theta-sample-for-android/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="common_height">48dp</dimen>
+    <dimen name="common_margin">16dp</dimen>
+    <dimen name="list_diviver_height">1px</dimen>
+    <dimen name="thumbnail_height">48dp</dimen>
+    <dimen name="thumbnail_width">96dp</dimen>
+    <!-- From: file:/Users/jc/Downloads/ricoh-theta-sample-for-android/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ricoh-theta-sample-for-android</string>
+    <string name="configuration">settings</string>
+    <string name="inertia_0">none</string>
+    <string name="inertia_100">strong</string>
+    <string name="inertia_50">weak</string>
+    <string name="label_btn_shoot">shoot</string>
+    <string name="rotate_inertia">rotation inertia</string>
+    <string name="text_camera_notconnected">Not connected</string>
+    <string name="text_camera_standby">Standby</string>
+    <string name="text_camera_synthesizing">Image synthesizing</string>
+    <string name="theta_ip_address">192.168.1.1</string>
+</resources>
