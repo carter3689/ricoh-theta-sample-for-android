@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">ricoh-theta-sample-for-android</string>
+    <string name="theta_ip_address">192.168.1.1</string>
+    <string name="label_btn_shoot">shoot</string>
+    <string name="text_camera_notconnected">Not connected</string>
+    <string name="text_camera_standby">Standby</string>
+    <string name="text_camera_synthesizing">Image synthesizing</string>
+
+    <string name="configuration">settings</string>
+    <string name="rotate_inertia">rotation inertia</string>
+    <string name="inertia_0">none</string>
+    <string name="inertia_50">weak</string>
+    <string name="inertia_100">strong</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
